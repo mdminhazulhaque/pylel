@@ -1,4 +1,5 @@
-```~ > ./lel.py MYMP001185190113
+```
+$ python3 lel.py MYMP001185190113
 Date    Time    Description
 ------  ------  -----------------------------------------------------------------------------------
 22 Feb  11:58   Your parcel has been delivered!
